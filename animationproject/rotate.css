@@ -1,0 +1,96 @@
+
+body{
+    padding:0;
+    marging
+    background:#8AF3F9;
+    background-size:cover;
+}
+
+.rotate_01{
+    display: block;
+    position: fixed;
+    top: 50 % ;
+    left: 50 % ;
+    width: 150 px;
+    height: 150 px;
+    margin: -60 px 0 0 - 280 px; -
+    webkit - transition: -webkit - transform 1 s;
+}
+.rotate_01:hover{
+       -webkit-transform: rotate(360deg) translateZ(0);
+       
+}
+
+.rotate_01{
+    display: block;
+    position: fixed;
+    top: 50 % ;
+    left: 50 % ;
+    width: 150 px;
+    height: 150 px;
+    margin: -60 px 0 0 - 280 px; -
+    webkit - transition: -webkit - transform 1 s;
+}
+.rotate_01:hover{
+       -webkit-transform: rotate(360deg) translateZ(0);
+       
+}
+
+.rotate_01{
+    display: block;
+    position: fixed;
+    top: 50 % ;
+    left: 50 % ;
+    width: 150 px;
+    height: 150 px;
+    margin: -60 px 0 0 - 280 px; -
+    webkit - transition: -webkit - transform 1 s;
+}
+.rotate_01:hover{
+       -webkit-transform: rotate(360deg) translateZ(0);
+       
+}
+
+.rotate_02{
+    display: block;
+    position: fixed;
+    top: 50 % ;
+    left: 50 % ;
+    width: 150 px;
+    height: 150 px;
+    margin: -60 px 0 0 -60 px;
+    
+}
+.rotate_02:hover{
+       -webkit-animation:spin 1s linear infinite;
+       -moz-animation: spin 1s linear infinite;
+       animation: spin 1s linear infinite;
+       
+}
+
+.rotate_03{
+    display: block;
+    position: fixed;
+    top: 50 % ;
+    left: 50 % ;
+    width: 150 px;
+    height: 150 px;
+    margin: -60 px 0 0 150 px; -
+    webkit - animation: spin 1 s linear infinite; -
+    moz - animation: spin 1 s linear infinite;
+    animation: spin 1 s linear infinite;
+
+}
+
+@-webkit-keyframes spin{
+    100 % {-webkit - transform: rotate(360 deg); }
+}
+@-moz-keyframes spin{
+    100 % {-webkit - transform: rotate(360 deg); }
+}
+@keyframes spin{
+    100%{-webkit - transforms: rotate(360 deg); }
+}
+}
+}
+
